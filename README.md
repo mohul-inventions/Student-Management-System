@@ -167,29 +167,7 @@ The application includes a modern and interactive design with:
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-
-_Add Screenshot Here_
-
-### ➕ Student Registration
-
-_Add Screenshot Here_
-
-### 📋 Student List
-
-_Add Screenshot Here_
-
-### 🗑️ Delete Student
-
-_Add Screenshot Here_
-
-### 🗄️ MongoDB Database
-
-_Add Screenshot Here_
-
----
 
 ## 📌 Future Enhancements
 
